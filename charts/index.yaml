@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   sample-elk:
   - apiVersion: v1
-    created: 2017-06-09T12:07:26.272022201-04:00
+    created: 2017-06-14T11:44:51.861021752-04:00
     description: Microservice Builder ELK Sample
-    digest: f46af02047ef412aa7d9ee75d865b0a7d70adc53b00e604bd1c97249ecd82898
+    digest: f26a924370320fc1fb63ed2cb6ee797d9ec8ca361a99e0a4c2dfbdf699de6fec
     icon: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/microservicebuilder/icon.png
     name: sample-elk
     urls:
     - https://wasdev.github.io/sample.microservicebuilder.helm.elk/charts/sample-elk-0.1.0.tgz
     version: 0.1.0
-generated: 2017-06-09T12:07:26.271225766-04:00
+generated: 2017-06-14T11:44:51.860227624-04:00
