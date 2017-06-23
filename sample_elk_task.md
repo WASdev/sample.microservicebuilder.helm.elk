@@ -12,7 +12,7 @@ Configure the ELK Sample to enable monitoring of your logging and tracing metric
 
 ## Before you begin
 
-* [Deploy the Microservice Builder fabric](https://github.ibm.com/liber8/docs/blob/vnext/installing_fabric_task.md) using your _IBM Spectrum Conductor for Containers_ dashboard. The link needs to be modified to point to the fabric installation page.
+* [Deploy the Microservice Builder fabric](https://www.ibm.com/support/knowledgecenter/SS5PWC/installing_fabric_task.html) using your _IBM Spectrum Conductor for Containers_ dashboard.
 
 * [Deploy the Microservice Builder ELK Sample](installing_sample_elk_task.md) using your _IBM Spectrum Conductor for Containers_ dashboard.
 
