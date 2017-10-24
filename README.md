@@ -9,3 +9,5 @@ More information on the ELK Sample project is available on the [About the ELK Sa
 Once you're ready to deploy the ELK Sample, visit the [Installing the ELK Sample](installing_sample_elk_task.md) page. To configure the ELK stack, see [Using the ELK Sample](sample_elk_task.md).
 
 Useful tips for [Troubleshooting](sample_elk_troubleshoot.md) are also available.
+
+This sample works on x86_64 architectures only at this moment.
