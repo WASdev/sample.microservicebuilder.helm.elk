@@ -45,7 +45,7 @@ When you deploy the Microservice Builder ELK Sample, it creates the following Ku
 
 -----------
 
-1. Ensure that the Kubernetes secrets exist. Run the following **kubectl** command and find the _mb-truststore_, _mb-truststore_, _mb-keystore_ and _mb-keystore-password_ Kubernetes secrets in the list:  
+1. Ensure that the Kubernetes secrets exist. Run the following **kubectl** command and find the _mb-truststore_, _mb-truststore-password_, _mb-keystore_ and _mb-keystore-password_ Kubernetes secrets in the list:  
 
      ``kubectl get secrets``
 2. Ensure that the configuration map exists. Run the following **kubectl** command and find the configuration map value of  _liberty-config_ in the list:  
