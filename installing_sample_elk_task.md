@@ -33,7 +33,7 @@ __Important__: To use the Sample ELK stack, make sure to deploy the Microservice
 
 1. Log in to the IBM Spectrum Conductor for Containers dashboard.
 2. Select **System** and then the **Repositories** tab.
-3. Click **Add Repository**, enter _mb-sample_ as the repository name and  https://wasdev.github.io/sample.microservicebuilder.helm.elk/charts as the URL. Then, click **Add**.
+3. Click **Add Repository**, enter _mb-sample_ as the repository name and  `https://wasdev.github.io/sample.microservicebuilder.helm.elk/charts` as the URL. Then, click **Add**.
 4. Select **App Center**, click **Install** for mb-sample/sample-elk, and click **Install Package**.
 
 ---
